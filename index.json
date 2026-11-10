@@ -1,10 +1,66 @@
 [
   {
-    "name": "Example theme",
-    "author": "your-name",
-    "description": "One short line about the look.",
-    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/example-theme.json",
-    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/example-theme.png",
+    "name": "Neon Tokyo",
+    "author": "q4uincy",
+    "description": "Rainy cyberpunk city at night: deep navy with hot pink",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/neon-tokyo.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/neon-tokyo.png",
+    "image": ""
+  },
+  {
+    "name": "Oni Mask",
+    "author": "q4uincy",
+    "description": "Dark crimson and bone white, like a demon-slayer blade",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/oni-mask.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/oni-mask.png",
+    "image": ""
+  },
+  {
+    "name": "Moonlit Shrine",
+    "author": "q4uincy",
+    "description": "Quiet blue-violet night with a pale moon accent",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/moonlit-shrine.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/moonlit-shrine.png",
+    "image": ""
+  },
+  {
+    "name": "Mecha Pilot",
+    "author": "q4uincy",
+    "description": "Cold steel grey with a bright orange warning accent",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/mecha-pilot.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/mecha-pilot.png",
+    "image": ""
+  },
+  {
+    "name": "Cherry Blossom Day",
+    "author": "q4uincy",
+    "description": "Light pastel pink theme, soft and clean",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/cherry-blossom-day.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/cherry-blossom-day.png",
+    "image": ""
+  },
+  {
+    "name": "Spirit Forest",
+    "author": "q4uincy",
+    "description": "Misty dark green with glowing mint",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/spirit-forest.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/spirit-forest.png",
+    "image": ""
+  },
+  {
+    "name": "Sunset Rooftop",
+    "author": "q4uincy",
+    "description": "Warm purple to orange golden-hour feel",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/sunset-rooftop.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/sunset-rooftop.png",
+    "image": ""
+  },
+  {
+    "name": "Kawaii Pop",
+    "author": "q4uincy",
+    "description": "Bright candy colors on dark purple",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/kawaii-pop.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/kawaii-pop.png",
     "image": ""
   }
 ]
