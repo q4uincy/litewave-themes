@@ -1,0 +1,13 @@
+{
+  "name": "Spirit Forest",
+  "author": "q4uincy",
+  "bg": "#0a120e",
+  "panel": "#12201a",
+  "text": "#e6f5ec",
+  "subtext": "#8aa896",
+  "accent": "#5eead4",
+  "panel_alpha": 200,
+  "dim": 120,
+  "rounding": 12.0,
+  "background": null
+}
