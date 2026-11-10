@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Neon Tokyo",
+    "author": "q4uincy",
+    "description": "Rainy cyberpunk city at night: deep navy with hot pink",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/neon-tokyo.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/neon-tokyo-preview.jpg",
+    "image": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/neon-tokyo-wall.jpg"
+  },
+  {
+    "name": "Oni Mask",
+    "author": "q4uincy",
+    "description": "Dark crimson and bone white, like a demon-slayer blade",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/oni-mask.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/oni-mask-preview.jpg",
+    "image": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/oni-mask-wall.jpg"
+  },
+  {
+    "name": "Moonlit Shrine",
+    "author": "q4uincy",
+    "description": "Quiet blue-violet night with a pale moon accent",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/moonlit-shrine.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/moonlit-shrine-preview.jpg",
+    "image": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/moonlit-shrine-wall.jpg"
+  },
+  {
+    "name": "Mecha Pilot",
+    "author": "q4uincy",
+    "description": "Cold steel grey with a bright orange warning accent",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/mecha-pilot.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/mecha-pilot-preview.jpg",
+    "image": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/mecha-pilot-wall.jpg"
+  },
+  {
+    "name": "Cherry Blossom Day",
+    "author": "q4uincy",
+    "description": "Light pastel pink theme, soft and clean",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/cherry-blossom-day.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/cherry-blossom-day-preview.jpg",
+    "image": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/cherry-blossom-day-wall.jpg"
+  },
+  {
+    "name": "Spirit Forest",
+    "author": "q4uincy",
+    "description": "Misty dark green with glowing mint",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/spirit-forest.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/spirit-forest-preview.jpg",
+    "image": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/spirit-forest-wall.jpg"
+  },
+  {
+    "name": "Sunset Rooftop",
+    "author": "q4uincy",
+    "description": "Warm purple to orange golden-hour feel",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/sunset-rooftop.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/sunset-rooftop-preview.jpg",
+    "image": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/sunset-rooftop-wall.jpg"
+  },
+  {
+    "name": "Kawaii Pop",
+    "author": "q4uincy",
+    "description": "Bright candy colors on dark purple",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/kawaii-pop.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/kawaii-pop-preview.jpg",
+    "image": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/kawaii-pop-wall.jpg"
+  },
+  {
+    "name": "Dragonfire Dusk",
+    "author": "q4uincy",
+    "description": "Molten gold sky, dragon silhouettes and a wall of spears",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/dragonfire-dusk.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/dragonfire-dusk-preview.jpg",
+    "image": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/dragonfire-dusk-wall.jpg"
+  },
+  {
+    "name": "Phoenix Ember",
+    "author": "q4uincy",
+    "description": "A rising sun and embers: crimson sky, pale-gold accent",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/phoenix-ember.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/phoenix-ember-preview.jpg",
+    "image": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/phoenix-ember-wall.jpg"
+  },
+  {
+    "name": "Elder Grove",
+    "author": "q4uincy",
+    "description": "Sunbeams through an ancient mossy forest, moss-giant in the mist",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/elder-grove.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/elder-grove-preview.jpg",
+    "image": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/elder-grove-wall.jpg"
+  },
+  {
+    "name": "Sylvari Dream",
+    "author": "q4uincy",
+    "description": "Bioluminescent teal glade with drifting spores",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/sylvari-dream.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/sylvari-dream-preview.jpg",
+    "image": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/sylvari-dream-wall.jpg"
+  },
+  {
+    "name": "Ashen Legion",
+    "author": "q4uincy",
+    "description": "Smoke-red battlefield: a lone wyrm over the spear lines",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/ashen-legion.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/ashen-legion-preview.jpg",
+    "image": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/ashen-legion-wall.jpg"
+  },
+  {
+    "name": "Dawn Wyrm",
+    "author": "q4uincy",
+    "description": "A light parchment theme: warm sand dunes and morning dragons",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/dawn-wyrm.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/dawn-wyrm-preview.jpg",
+    "image": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/dawn-wyrm-wall.jpg"
+  }
+]
