@@ -1,0 +1,18 @@
+{
+  "name": "Sylvari Dream",
+  "author": "q4uincy",
+  "bg": "#041412",
+  "panel": "#0a2622",
+  "text": "#e2fff6",
+  "subtext": "#7fb8a8",
+  "accent": "#4dffc0",
+  "accent2": "#36d6ff",
+  "border": "#14463e",
+  "tint": "#02100d",
+  "glow": 70,
+  "blur": 3,
+  "panel_alpha": 200,
+  "dim": 90,
+  "rounding": 16.0,
+  "background": "sylvari-dream-wall.jpg"
+}

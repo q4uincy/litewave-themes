@@ -1,0 +1,13 @@
+{
+  "name": "Mecha Pilot",
+  "author": "q4uincy",
+  "bg": "#0d0f11",
+  "panel": "#171b1f",
+  "text": "#e8edf0",
+  "subtext": "#8a96a0",
+  "accent": "#ff7a00",
+  "panel_alpha": 220,
+  "dim": 110,
+  "rounding": 3.0,
+  "background": null
+}
