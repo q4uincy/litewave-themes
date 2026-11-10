@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Example theme",
+    "author": "your-name",
+    "description": "One short line about the look.",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/example-theme.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/example-theme.png",
+    "image": ""
+  }
+]
