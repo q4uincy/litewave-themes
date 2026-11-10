@@ -62,5 +62,53 @@
     "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/kawaii-pop.json",
     "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/kawaii-pop-preview.jpg",
     "image": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/kawaii-pop-wall.jpg"
+  },
+  {
+    "name": "Dragonfire Dusk",
+    "author": "q4uincy",
+    "description": "Molten gold sky, dragon silhouettes and a wall of spears",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/dragonfire-dusk.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/dragonfire-dusk-preview.jpg",
+    "image": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/dragonfire-dusk-wall.jpg"
+  },
+  {
+    "name": "Phoenix Ember",
+    "author": "q4uincy",
+    "description": "A rising sun and embers: crimson sky, pale-gold accent",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/phoenix-ember.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/phoenix-ember-preview.jpg",
+    "image": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/phoenix-ember-wall.jpg"
+  },
+  {
+    "name": "Elder Grove",
+    "author": "q4uincy",
+    "description": "Sunbeams through an ancient mossy forest, moss-giant in the mist",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/elder-grove.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/elder-grove-preview.jpg",
+    "image": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/elder-grove-wall.jpg"
+  },
+  {
+    "name": "Sylvari Dream",
+    "author": "q4uincy",
+    "description": "Bioluminescent teal glade with drifting spores",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/sylvari-dream.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/sylvari-dream-preview.jpg",
+    "image": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/sylvari-dream-wall.jpg"
+  },
+  {
+    "name": "Ashen Legion",
+    "author": "q4uincy",
+    "description": "Smoke-red battlefield: a lone wyrm over the spear lines",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/ashen-legion.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/ashen-legion-preview.jpg",
+    "image": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/ashen-legion-wall.jpg"
+  },
+  {
+    "name": "Dawn Wyrm",
+    "author": "q4uincy",
+    "description": "A light parchment theme: warm sand dunes and morning dragons",
+    "json": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/dawn-wyrm.json",
+    "preview": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/dawn-wyrm-preview.jpg",
+    "image": "https://raw.githubusercontent.com/q4uincy/litewave-themes/main/themes/dawn-wyrm-wall.jpg"
   }
 ]
