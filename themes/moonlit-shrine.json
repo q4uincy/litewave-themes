@@ -1,0 +1,13 @@
+{
+  "name": "Moonlit Shrine",
+  "author": "q4uincy",
+  "bg": "#0b0d1a",
+  "panel": "#141830",
+  "text": "#e9ecff",
+  "subtext": "#8f95c0",
+  "accent": "#9fb4ff",
+  "panel_alpha": 200,
+  "dim": 130,
+  "rounding": 12.0,
+  "background": null
+}

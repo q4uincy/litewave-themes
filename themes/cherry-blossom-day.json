@@ -1,0 +1,13 @@
+{
+  "name": "Cherry Blossom Day",
+  "author": "q4uincy",
+  "bg": "#fdf0f4",
+  "panel": "#ffffff",
+  "text": "#3a2530",
+  "subtext": "#8f6f7d",
+  "accent": "#f0658f",
+  "panel_alpha": 235,
+  "dim": 60,
+  "rounding": 14.0,
+  "background": null
+}
